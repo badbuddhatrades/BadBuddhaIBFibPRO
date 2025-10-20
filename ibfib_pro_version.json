@@ -7,11 +7,11 @@
   "breakingChanges": false,
   "changelog": [
     "10-20-2025:",
-    "Update to user based licensing system"
+      "Update to user based licensing system",
     "9-28-2025:",
-    "Smoothed IB lock timing around session boundaries",
-    "Added update popup with NTWindow",
-    "Added four IB block calcuation modes, for different sessions",
-    "Added user control for line and color options"
+      "Smoothed IB lock timing around session boundaries",
+      "Added update popup with NTWindow",
+      "Added four IB block calcuation modes, for different sessions",
+      "Added user control for line and color options"
   ]
 }
