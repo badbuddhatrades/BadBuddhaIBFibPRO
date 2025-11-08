@@ -5,7 +5,6 @@
 ![Version](https://img.shields.io/badge/version-v2.0.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-NinjaTrader%208-green)
 ![License](https://img.shields.io/badge/license-NinjaTrader%20Vendor-orange)
-![Product ID](https://img.shields.io/badge/Product%20ID-429-purple)
 ![Release](https://img.shields.io/badge/release-October%202025-lightgrey)
 
 **Professional-grade Initial Balance indicator with customizable Fibonacci extensions and multi-session support**
