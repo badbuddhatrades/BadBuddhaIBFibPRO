@@ -1,17 +1,9 @@
 {
-  "version": "v2.1.1.0",
-  "notes": "Performance and stability fixes.",
-  "downloadUrl": "https://github.com/badbuddhatrades/BadBuddhaIBFibPRO/raw/refs/heads/main/BadBuddha_IB_FibExtensions_Pro.zip",
-  "published": "2026-01-02",
-  "author": "BadBuddhaCustoms",
-  "breakingChanges": false,
-  "changelog": [
-    "10-20-2025:",
-      "Update to user based licensing system",
-    "9-28-2025:",
-      "Smoothed IB lock timing around session boundaries",
-      "Added update popup with NTWindow",
-      "Added four IB block calcuation modes, for different sessions",
-      "Added user control for line and color options"
-  ]
+  "product": "BadBuddha IBFib (Pro)",
+  "version": "2.1.2.0",
+  "releaseDate": "2026-01-10",
+  "type": "indicator",
+  "tier": "lite",
+  "minNinjaTraderVersion": "8.1.0.0",
+  "downloadUrl": "https://ninjascript-downloads.badbuddhacustoms.workers.dev/download/InitialBalance-Pro/2.1.2.0?source=update"
 }
